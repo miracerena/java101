@@ -33,3 +33,4 @@ public class dairealancevre {
         System.out.println("Daire Diliminin alani : " + alan);
     }
 }
+/* https://app.patika.dev/miracerena
