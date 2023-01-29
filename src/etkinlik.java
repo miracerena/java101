@@ -24,4 +24,5 @@ public class etkinlik {
 
         }
     }
+//https://app.patika.dev/miracerena
 
