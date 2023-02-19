@@ -37,3 +37,4 @@ public class ebobEkok {
         System.out.println("Ekok: " + ekok);
     }
 }
+//https://app.patika.dev/miracerena

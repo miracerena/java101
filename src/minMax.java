@@ -31,3 +31,4 @@ public class minMax {
 
     }
 }
+//https://app.patika.dev/miracerena

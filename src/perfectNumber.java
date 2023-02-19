@@ -22,3 +22,4 @@ public class perfectNumber {
         }
     }
 }
+//https://app.patika.dev/miracerena
